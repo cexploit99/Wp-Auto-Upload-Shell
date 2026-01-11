@@ -7,6 +7,7 @@ $ python main.py
     Format 2: https://example.com/wp-login.php:admin:password
     Format 3: https://example.com/wp-login.php|admin|password
  ```
+<img src="https://raw.githubusercontent.com/cexploit99/Wp-Auto-Upload-Shell/refs/heads/main/img/wpupshell.jpg" title="Wp-Auto-Upload-Shell">
 
 ```
 ## 📁 Structure:
